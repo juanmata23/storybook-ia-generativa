@@ -1,0 +1,22 @@
+{
+  "idea": "Una bibliotecaria descubre un diario que escribe solo durante las noches de tormenta",
+  "genero": "Misterio",
+  "tiempos_s": {
+    "total": 1389.37,
+    "texto": 715.31,
+    "imagen": 13.4,
+    "voz": 594.4,
+    "sonido": 64.62,
+    "palabras": 474
+  },
+  "duraciones_voz_s": [
+    34.88,
+    33.68,
+    35.60004166666667,
+    23.52,
+    36.12
+  ],
+  "avisos_texto": [
+    "Escena 4: demasiado breve"
+  ]
+}

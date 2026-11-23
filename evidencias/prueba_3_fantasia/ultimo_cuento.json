@@ -1,0 +1,126 @@
+{
+  "titulo": "Milo y el Planeta Perdido",
+  "personaje_en": "Milo is a violet-eyed space cat with sleek black fur and silver trim. He wears a white astronaut suit with red accents. His violet eyes glow softly, and his fur shimmers under starlight.",
+  "escenario_en": "The planet Zynar is a vibrant world with glowing forests and floating islands. The sky is a deep indigo, lit by distant stars and the soft glow of bioluminescent plants.",
+  "escenas": [
+    {
+      "numero": 1,
+      "acto": "Inicio",
+      "texto": "Milo, el gato astronauta con ojos violetas, revisaba los mapas del planeta Zynar junto a Tara, la navegante, en la cubierta de la nave. Los datos fluían en sus pantallas, las coordenadas se ajustaban con precisión, pero algo en el aire era diferente. Milo se acurrucó contra el borde de la consola, sus garras aferraron el metal frío, mientras Tara le daba la espalda, ocupada en ajustar los sistemas de orientación. De pronto, una vibración recorrió el campo magnético del planeta, una señal distorsionada que parecía provenir de fuera, como si el propio suelo estuviera resonando con un sonido que no existía.",
+      "hechos": [
+        "Milo, el gato astronauta con ojos violetas, revisa los mapas del planeta Zynar junto a Tara, la navegante.",
+        "Tara ajusta los sistemas de orientación mientras Milo se acurruga contra la consola.",
+        "Una vibración distorsiona el campo magnético del planeta, como si el suelo estuviera resonando."
+      ],
+      "accion_en": "the character adjusts the console controls with careful precision",
+      "lugar_en": "nave bridge under dim starlight",
+      "sonido_en": "hum of machinery mixed with distant static"
+    },
+    {
+      "numero": 2,
+      "acto": "Desarrollo",
+      "texto": "Milo se apartó de la consola, sus pupilas dilatándose ante la luz tenue que emanaba de la grieta en el suelo. Tara, concentrada, no lo miró, pero su voz cortó el silencio: \"Es una señal, Milo. No es de este planeta.\" El gato se acercó, las patas temblándole, y sintió un calor extraño bajo los dedos. La señal brillaba con un patrón irregular, como si alguien hubiera dibujado en el polvo. Tara tomó su brazo, la piel fría bajo su nariz, y emprendieron el camino hacia la luz, mientras Milo, confuso, retrocedió, el mundo desdibujándose como si el espacio lo estuviera envolver.",
+      "hechos": [
+        "Milo se aleja de la consola al ver la luz de la grieta.",
+        "Tara afirma que la señal no proviene de este planeta.",
+        "El gato siente un calor extraño bajo los dedos al acercarse a la señal."
+      ],
+      "accion_en": "the character steps back as the light from the crack intensifies",
+      "lugar_en": "dark underground chamber with faint bioluminescent glow",
+      "sonido_en": "muffled whispers, distant dripping, faint hum"
+    },
+    {
+      "numero": 3,
+      "acto": "Conflicto",
+      "texto": "Milo avanzó sin rumbo, el aire vibrando con sonidos que no existían, las sombras se alargaban en formas extrañas, y el suelo bajo sus patas parecía moverse. La vegetación se elevaba en espirales, las raíces se entrelazaban como serpientes, y el gato perdió el sentido de dirección, el campo de energía lo envolvía, lo desorientaba, y la señal se fue volviendo un recuerdo lejano.",
+      "hechos": [
+        "Milo avanza sin rumbo por un campo desconocido.",
+        "El aire vibra con sonidos inexistentes y las sombras se alargan en formas extrañas.",
+        "El gato pierde el sentido de dirección y es envuelto por un campo de energía."
+      ],
+      "accion_en": "the character steps forward through shifting shadows and strange sounds",
+      "lugar_en": "a glowing forest at twilight with swirling lights",
+      "sonido_en": "whispers of wind and distant, eerie hums"
+    },
+    {
+      "numero": 4,
+      "acto": "Clímax",
+      "texto": "Korran apareció entre la vegetación que se elevaba en espirales, su forma corporal brillaba con un resplandor tenue. El gato se detuvo, las sombras alargándose en formas extrañas, el suelo bajo sus patas parecía moverse. Korran habló con voz calmada, explicando que el campo era un mecanismo de defensa del planeta, que alteraba la percepción de los visitantes. Milo entendió que necesitaba ayuda para superar el obstáculo, el campo lo envolvía, lo desorientaba, y la señal se fue volviendo un recuerdo lejano.",
+      "hechos": [
+        "Korran aparece entre la vegetación espiralada con un cuerpo brillante.",
+        "El gato se detiene frente a un campo que altera la percepción de los visitantes.",
+        "Milo necesita ayuda para superar el campo que lo desorienta y borra su memoria."
+      ],
+      "accion_en": "the character steps forward, eyes glowing as the field distorts around him",
+      "lugar_en": "spiral vegetation under starlit sky at dusk",
+      "sonido_en": "whispers of wind through twisting plants, distant hum of energy"
+    },
+    {
+      "numero": 5,
+      "acto": "Desenlace",
+      "texto": "Korran ajustó el dispositivo en su brazo, emitiendo una frecuencia suave que resonó con el campo. Tara activó el emisor de la nave, proyectando un tono que cortó el vuelo de los sonidos extraños. Milo se acurrucó contra el suelo, sus ojos violetas brillando con esperanza. El campo titubeó, luego se rompió, revelando un camino oscurito. El gato corrió, siguiendo el eco de su amigo, hasta encontrarlo escondido en un refugio de piedra, con los ojos violetas brillando igual que antes. Milo lo cargó, y juntos regresaron a la nave, con los ojos violetas de Milo parpadeando por la emoción.",
+      "hechos": [
+        "Korran ajusta un dispositivo en su brazo emitiendo una frecuencia.",
+        "Tara activa el emisor de la nave proyectando un tono que detiene sonidos extraños.",
+        "Milo y el gato encuentran un refugio de piedra con ojos violetas brillantes."
+      ],
+      "accion_en": "the character moves through the dark path alongside the feline companion",
+      "lugar_en": "dark corridor illuminated by faint starlight at dusk",
+      "sonido_en": "muffled echoes of footsteps and distant hum of the ship"
+    }
+  ],
+  "biblia": {
+    "titulo": "Milo y el Planeta Perdido",
+    "protagonista": {
+      "nombre": "Milo",
+      "tipo": "gato astronauta",
+      "oficio": "explorador espacial",
+      "rasgo": "ojos de color violeta"
+    },
+    "secundarios": [
+      {
+        "nombre": "Tara",
+        "rol": "navegante"
+      },
+      {
+        "nombre": "Korran",
+        "rol": "guía del planeta"
+      }
+    ],
+    "lugar": "El Planeta Zynar",
+    "tono": "aventura y emoción",
+    "objetivo": "buscar a su mejor amigo perdido en un planeta desconocido",
+    "obstaculo": "un campo de energía que desvía los sentidos de Milo y lo aleja de su amigo",
+    "final": "Milo logra superar el obstáculo con la ayuda de Tara y Korran, encuentra a su amigo y regresa a la nave con él.",
+    "plan": [
+      {
+        "que_sucede": "Milo, el gato astronauta con ojos violetas, revisa los mapas del planeta Zynar junto a Tara, la navegante, en la cubierta de la nave.",
+        "que_cambia": "Milo siente una extraña vibración en el campo magnético del planeta."
+      },
+      {
+        "que_sucede": "Milo y Tara descubren una señal alienígena en la superficie del planeta, que parece indicar la ubicación de un refugio para exploradores perdidos.",
+        "que_cambia": "Tara decide seguir la señal mientras Milo se queda atrás, confundido por los cambios en su visión."
+      },
+      {
+        "que_sucede": "Milo entra en un campo de energía que distorsiona sus sentidos, haciendo que perciba luces y sonidos que no existen, y lo aleja de la señal que seguía.",
+        "que_cambia": "Milo se pierde en la vegetación alienígena y no logra encontrar el refugio."
+      },
+      {
+        "que_sucede": "Korran, el guía del planeta, llega a la zona donde Milo está perdido y le explica que el campo de energía es un mecanismo de defensa del planeta, que altera la percepción de los visitantes.",
+        "que_cambia": "Milo comprende que necesita ayuda para superar el obstáculo."
+      },
+      {
+        "que_sucede": "Milo, con la ayuda de Tara y Korran, usa la frecuencia de sonido de la nave para comunicarse con el campo de energía, logrando superar la distorsión y encontrar a su amigo, quien estaba oculto en un refugio del planeta.",
+        "que_cambia": "Milo y su amigo regresan a la nave, con los ojos violetas de Milo brillando por la emoción."
+      }
+    ],
+    "personaje_en": "Milo is a violet-eyed space cat with sleek black fur and silver trim. He wears a white astronaut suit with red accents. His violet eyes glow softly, and his fur shimmers under starlight.",
+    "escenario_en": "The planet Zynar is a vibrant world with glowing forests and floating islands. The sky is a deep indigo, lit by distant stars and the soft glow of bioluminescent plants."
+  },
+  "avisos": [
+    "Escena 3: demasiado breve"
+  ],
+  "uso_respaldo": false,
+  "tiempo_biblia_s": 191.56,
+  "tiempo_texto_s": 679.75
+}

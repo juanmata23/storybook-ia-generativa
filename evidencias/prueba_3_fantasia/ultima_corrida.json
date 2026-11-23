@@ -1,0 +1,22 @@
+{
+  "idea": "Un gato astronauta llamado Milo busca a su mejor amigo perdido en un planeta desconocido",
+  "genero": "Ciencia Ficción",
+  "tiempos_s": {
+    "total": 1226.68,
+    "texto": 679.75,
+    "imagen": 15.59,
+    "voz": 502.24,
+    "sonido": 27.66,
+    "palabras": 450
+  },
+  "duraciones_voz_s": [
+    35.48,
+    34.48,
+    25.56,
+    32.16,
+    33.96
+  ],
+  "avisos_texto": [
+    "Escena 3: demasiado breve"
+  ]
+}

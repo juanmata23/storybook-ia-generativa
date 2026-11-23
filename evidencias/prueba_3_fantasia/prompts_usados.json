@@ -1,0 +1,54 @@
+{
+  "modo": "semilla_escena",
+  "semilla_base": 1760107916,
+  "personaje": "single Milo is a violet-eyed space cat with sleek black fur and silver trim.",
+  "estilo": "sci-fi storybook illustration, cinematic futuristic light",
+  "tiempo_s": 15.59,
+  "escenas": [
+    {
+      "escena": 1,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, wide establishing shot, single Milo is a violet-eyed space cat with sleek black fur and silver trim, the character adjusts the console controls with careful precision, nave bridge under dim starlight",
+      "semilla": 1760108925,
+      "plano": "wide establishing shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 2,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, medium shot, single Milo is a violet-eyed space cat with sleek black fur and silver trim, the character steps back as the light from the crack intensifies, dark underground chamber with faint bioluminescent glow",
+      "semilla": 1760109934,
+      "plano": "medium shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 3,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, dynamic low angle shot, single Milo is a violet-eyed space cat with sleek black fur and silver trim, the character steps forward through shifting shadows and strange sounds, a glowing forest at twilight with swirling lights",
+      "semilla": 1760110943,
+      "plano": "dynamic low angle shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 4,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, close-up shot, single Milo is a violet-eyed space cat with sleek black fur and silver trim, the character steps forward, eyes glowing as the field distorts around him, spiral vegetation under starlit sky at dusk",
+      "semilla": 1760111952,
+      "plano": "close-up shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 5,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, wide shot, single Milo is a violet-eyed space cat with sleek black fur and silver trim, the character moves through the dark path alongside the feline companion, dark corridor illuminated by faint starlight at dusk",
+      "semilla": 1760112961,
+      "plano": "wide shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    }
+  ]
+}

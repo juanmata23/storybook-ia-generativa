@@ -1,0 +1,39 @@
+{
+  "genero": "misterio",
+  "semilla": 300746231,
+  "guidance": 3.5,
+  "segundos_clip": 12.0,
+  "tiempo_s": 64.62,
+  "escenas": [
+    {
+      "escena": 1,
+      "sonido_en": "soft rain tapping against windowpanes and distant wind whistling",
+      "prompt": "noir mystery ambient music, muted piano, soft double bass, subtle strings, suspenseful, soft shimmering textures like falling rain and gentle piano notes, airy pads with breathy flute and whistling wind-like textures, calm and curious mood, slow tempo, gentle, instrumental, no vocals",
+      "objetivo_s": 36.0
+    },
+    {
+      "escena": 2,
+      "sonido_en": "soft rustling of pages and distant rain tapping against windows",
+      "prompt": "noir mystery ambient music, muted piano, soft double bass, subtle strings, suspenseful, soft shimmering textures like falling rain and gentle piano notes, airy pads with breathy flute and whistling wind-like textures, flowing and hopeful mood, moderate tempo, building warmth, instrumental, no vocals",
+      "objetivo_s": 35.0
+    },
+    {
+      "escena": 3,
+      "sonido_en": "soft rustling of pages and distant thunder",
+      "prompt": "noir mystery ambient music, muted piano, soft double bass, subtle strings, suspenseful, deep timpani rumbles and dark rolling drones, tense and uneasy mood, rising intensity, hesitant rhythm, instrumental, no vocals",
+      "objetivo_s": 37.0
+    },
+    {
+      "escena": 4,
+      "sonido_en": "rain hitting windows, distant thunder, soft rustling paper",
+      "prompt": "noir mystery ambient music, muted piano, soft double bass, subtle strings, suspenseful, deep timpani rumbles and dark rolling drones, soft shimmering textures like falling rain and gentle piano notes, intense and dramatic mood, powerful, driving rhythm, instrumental, no vocals",
+      "objetivo_s": 25.0
+    },
+    {
+      "escena": 5,
+      "sonido_en": "soft rustling of pages and distant thunder",
+      "prompt": "noir mystery ambient music, muted piano, soft double bass, subtle strings, suspenseful, deep timpani rumbles and dark rolling drones, resolved and warm mood, slow tempo, peaceful ending, instrumental, no vocals",
+      "objetivo_s": 38.0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "genero": "ciencia ficcion",
+  "semilla": 3695530328,
+  "guidance": 3.5,
+  "segundos_clip": 12.0,
+  "tiempo_s": 27.66,
+  "escenas": [
+    {
+      "escena": 1,
+      "sonido_en": "hum of machinery mixed with distant static",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, spacey analog synth pads and pulsing arpeggios, calm and curious mood, slow tempo, gentle, instrumental, no vocals",
+      "objetivo_s": 37.0
+    },
+    {
+      "escena": 2,
+      "sonido_en": "muffled , distant dripping, faint hum",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, soft shimmering textures like falling rain and gentle piano notes, flowing and hopeful mood, moderate tempo, building warmth, instrumental, no vocals",
+      "objetivo_s": 36.0
+    },
+    {
+      "escena": 3,
+      "sonido_en": "of wind and distant, eerie hums",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, airy pads with breathy flute and whistling wind-like textures, tense and uneasy mood, rising intensity, hesitant rhythm, instrumental, no vocals",
+      "objetivo_s": 27.0
+    },
+    {
+      "escena": 4,
+      "sonido_en": "of wind through twisting plants, distant hum of energy",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, airy pads with breathy flute and whistling wind-like textures, intense and dramatic mood, powerful, driving rhythm, instrumental, no vocals",
+      "objetivo_s": 34.0
+    },
+    {
+      "escena": 5,
+      "sonido_en": "muffled echoes of footsteps and distant hum of the ship",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, soft rhythmic pizzicato strings with a light steady pulse, deep echoing drones and sparse resonant low tones, resolved and warm mood, slow tempo, peaceful ending, instrumental, no vocals",
+      "objetivo_s": 35.0
+    }
+  ]
+}

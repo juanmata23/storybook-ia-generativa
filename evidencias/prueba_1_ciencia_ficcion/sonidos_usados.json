@@ -1,0 +1,39 @@
+{
+  "genero": "ciencia ficcion",
+  "semilla": 193155391,
+  "guidance": 3.5,
+  "segundos_clip": 12.0,
+  "tiempo_s": 19.01,
+  "escenas": [
+    {
+      "escena": 1,
+      "sonido_en": "Whirring gears and faint tapping sounds",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, Whirring gears and faint tapping sounds, calm and curious mood, slow tempo, gentle, instrumental, no vocals",
+      "objetivo_s": 39.0
+    },
+    {
+      "escena": 2,
+      "sonido_en": "soft ticking of clocks, distant wind outside",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, airy pads with breathy flute and whistling wind-like textures, flowing and hopeful mood, moderate tempo, building warmth, instrumental, no vocals",
+      "objetivo_s": 23.0
+    },
+    {
+      "escena": 3,
+      "sonido_en": "crackling flames and distant rustling of wind through stone",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, airy pads with breathy flute and whistling wind-like textures, warm crackling textures with low cello, tense and uneasy mood, rising intensity, hesitant rhythm, instrumental, no vocals",
+      "objetivo_s": 25.0
+    },
+    {
+      "escena": 4,
+      "sonido_en": "rustling leaves, distant clock chimes, gentle stream",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, flowing harp arpeggios and watery shimmering pads, light flute, chimes and plucked strings with a natural feeling, intense and dramatic mood, powerful, driving rhythm, instrumental, no vocals",
+      "objetivo_s": 37.0
+    },
+    {
+      "escena": 5,
+      "sonido_en": "soft ticking of clocks and rustling leaves",
+      "prompt": "ambient electronic music, analog synth pads, subtle arpeggios, spacey reverb, light flute, chimes and plucked strings with a natural feeling, resolved and warm mood, slow tempo, peaceful ending, instrumental, no vocals",
+      "objetivo_s": 34.0
+    }
+  ]
+}

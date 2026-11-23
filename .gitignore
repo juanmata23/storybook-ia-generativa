@@ -1,0 +1,19 @@
+﻿# Entornos virtuales y archivos compilados de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+
+# Pesos locales de los modelos (se descargan según el README)
+modelos/
+
+# Salidas temporales y pruebas de laboratorio
+salida_cuento/
+salida_prueba_voz/
+prueba_imagenes/
+prueba_voces/
+evidencias/**/*.wav
+*.tmp
+*.log

@@ -1,0 +1,124 @@
+{
+  "titulo": "La Brújula del Joven Relojero",
+  "personaje_en": "Timo is a young clockmaker with a keen ear for machinery sounds. He wears a simple apron and has a patch on his ear, highlighting his unique ability to listen closely.",
+  "escenario_en": "The magical city of Orlog is illuminated by soft, ethereal light, with ancient buildings and enchanted forests nearby.",
+  "escenas": [
+    {
+      "numero": 1,
+      "acto": "Inicio",
+      "texto": "Timo, joven relojero de la ciudad de Orlog, trabajaba en su taller con manos expertas y oídos atentos. En el centro de la habitación, sobre una mesa de madera oscura, se alineaban brújulas recién terminadas, sus agujas girando con precisión. Alrededor, el ruido constante de herramientas y el eco de latrones resonaban con su atención. Los obreros de la ciudad lo observaban con interés, notando cómo capturaba cada sonido, cada vibración, como si escuchara un lenguaje secreto. Su pasión por la magia era evidente, aunque aún no conocía el camino que lo llevaría a descubrir el cristal de la Tierra Mágica.",
+      "hechos": [
+        "Timo es un joven relojero en Orlog.",
+        "Trabaja en su taller con brújulas recién terminadas.",
+        "Los obreros observan cómo captura sonidos y vibraciones."
+      ],
+      "accion_en": "The character adjusts a compass needle with careful precision",
+      "lugar_en": "Dark wooden table in a dimly lit workshop at noon",
+      "sonido_en": "Whirring gears and faint tapping sounds"
+    },
+    {
+      "numero": 2,
+      "acto": "Desarrollo",
+      "texto": "Una carta llegada por correo relataba de un cristal que solo el más valiente podría encontrar, necesario para construir una brújula que abriera puertas hacia bosques encantados. Timo leyó el mensaje con los ojos brillantes, sintiendo que el destino lo llamaba. No sabía cómo conseguirlo, pero la llama de la aventura lo empujó a salir de su taller y seguir el rastro de los sueños que él mismo había tejido.",
+      "hechos": [
+        "Timo recibe una carta sobre un cristal valioso.",
+        "La carta habla de una brújula para abrir puertas mágicas.",
+        "Timo decide salir de su taller para buscar el cristal."
+      ],
+      "accion_en": "the character reads the letter, eyes glowing with determination",
+      "lugar_en": "dim workshop at dawn, soft sunlight through windows",
+      "sonido_en": "soft ticking of clocks, distant wind outside"
+    },
+    {
+      "numero": 3,
+      "acto": "Conflicto",
+      "texto": "Timo siguió el camino que la carta había trazado hasta el santuario de los cristales, donde la luz de los faroles danzaba en las paredes de piedra. Ante una puerta de hierro, el Guardián Garrón apareció, sus ojos como agujas de hielo. Le dijo que el cristal solo podía ser tomado con el consentimiento de los bosques, y Timo entendió que necesitaba hablar con Lila para encontrar una forma de cruzar el umbral de los secretos.",
+      "hechos": [
+        "Timo sigue la carta al santuario de los cristales.",
+        "El Guardián Garrón aparece ante la puerta de hierro.",
+        "Timo debe hablar con Lila para obtener el consentimiento de los bosques."
+      ],
+      "accion_en": "the character kneels to examine the iron door's intricate patterns",
+      "lugar_en": "stone sanctuary with flickering torchlight at dusk",
+      "sonido_en": "crackling flames and distant rustling of wind through stone"
+    },
+    {
+      "numero": 4,
+      "acto": "Clímax",
+      "texto": "Lila, sentada en un banco junto a un árbol mágico, le dijo a Timo que el cristal no era un objeto de poder, sino un símbolo de equilibrio. Le mostró un reflejo en el agua que mostraba la tierra como un ciclo eterno. Timo entendió que Garrón no buscaba el cristal por su valor, sino por su significado. Se acercó al santuario con la mente en calma, recordando las vibraciones que capturaba en su taller. En la puerta de hierro, la figura de Garrón se mantuvo firme, pero Timo habló con la voz suave como el eco de un reloj antiguo, diciendo que el cristal no era un tesoro, sino un mensaje de armonía.",
+      "hechos": [
+        "Lila muestra el cristal como símbolo de equilibrio a Timo.",
+        "Timo llega al santuario con mente en calma y recuerdos del taller.",
+        "Garrón se mantiene firme frente a la puerta de hierro del santuario."
+      ],
+      "accion_en": "the character shows a reflection in water, explaining the crystal's meaning",
+      "lugar_en": "under a magical tree at dusk with soft light",
+      "sonido_en": "rustling leaves, distant clock chimes, gentle stream"
+    },
+    {
+      "numero": 5,
+      "acto": "Desenlace",
+      "texto": "Timo sostuvo el cristal entre sus manos, notando cómo su luz reflejaba el tono de los colores que había visto en el taller. Garrón, con ojos como el cielo de noche, escuchó atento cada palabra, hasta que Timo habló de equilibrio, de resonancia entre lo tangible y lo efímero. El guardián asintió, y con un gesto lento, entregó el cristal. Timo lo colocó en el núcleo de la brújula, y al girar el mango, la puerta se abrió con un susurro que parecía el eco de un reloj antiguo. Fuera, el bosque esperaba, lleno de sombras que danzaban con el viento.",
+      "hechos": [
+        "Timo sostiene un cristal entre sus manos.",
+        "Garrón escucha atento cuando Timo habla de equilibrio y resonancia.",
+        "El guardián entrega el cristal a Timo, quien lo coloca en la brújula."
+      ],
+      "accion_en": "the character places the crystal in the center of the compass",
+      "lugar_en": "dimly lit workshop at dusk",
+      "sonido_en": "soft ticking of clocks and rustling leaves"
+    }
+  ],
+  "biblia": {
+    "titulo": "La Brújula del Joven Relojero",
+    "protagonista": {
+      "nombre": "Timo",
+      "tipo": "Joven relojero",
+      "oficio": "Construir relojes y brújulas mágicas",
+      "rasgo": "Tiene un oído muy fino para escuchar los sonidos de las maquinas"
+    },
+    "secundarios": [
+      {
+        "nombre": "Lila",
+        "rol": "Adivina"
+      },
+      {
+        "nombre": "Garrón",
+        "rol": "Guardián de los bosques encantados"
+      }
+    ],
+    "lugar": "Ciudad de Orlog, en el rincón de la tierra mágica",
+    "tono": "Aventura mágica con toques de misterio",
+    "objetivo": "Construir una brújula que pueda abrir puertas hacia bosques encantados",
+    "obstaculo": "El núcleo de la brújula debe ser un cristal de la Tierra Mágica, pero el acceso a ese cristal está bloqueado por el Guardián Garrón",
+    "final": "Timo logra convencer a Garrón de que el cristal no es un objeto de poder, sino un símbolo de equilibrio. Garrón le entrega el cristal, Timo construye la brújula y abre la puerta hacia el bosque encantado, donde descubre un mundo lleno de vida mágica.",
+    "plan": [
+      {
+        "que_sucede": "Timo, un joven relojero de la ciudad de Orlog, escucha con atención los sonidos de las máquinas en su taller mientras observa las brújulas que ha construido.",
+        "que_cambia": "El público percibe su habilidad para escuchar los sonidos de las máquinas y su pasión por la magia."
+      },
+      {
+        "que_sucede": "Timo recibe una carta de un viajero que menciona un cristal de la Tierra Mágica, necesario para construir una brújula que abra puertas hacia bosques encantados.",
+        "que_cambia": "Timo se motiva a buscar el cristal, aunque no sabe cómo conseguirlo."
+      },
+      {
+        "que_sucede": "Timo visita el santuario de los cristales, donde encuentra una puerta bloqueada por el Guardián Garrón, quien le dice que el cristal solo puede ser tomado con el consentimiento de los bosques encantados.",
+        "que_cambia": "Timo comprende que necesita hablar con Lila, la adivina, para obtener consejos."
+      },
+      {
+        "que_sucede": "Lila, sentada en un banco junto a un árbol mágico, le cuenta a Timo que el cristal no es un objeto de poder, sino un símbolo de equilibrio, y le da una pista sobre cómo ganar la confianza de Garrón.",
+        "que_cambia": "Timo entiende el significado simbólico del cristal y se prepara para enfrentarse a Garrón."
+      },
+      {
+        "que_sucede": "Timo se enfrenta a Garrón frente a la puerta del cristal, explica su visión del cristal como símbolo de equilibrio y, tras un diálogo profundo, Garrón le entrega el cristal, permitiendo que Timo construya la brújula y abra la puerta hacia el bosque encantado.",
+        "que_cambia": "La puerta se abre, revelando un mundo mágico que Timo explora con curiosidad y respeto."
+      }
+    ],
+    "personaje_en": "Timo is a young clockmaker with a keen ear for machinery sounds. He wears a simple apron and has a patch on his ear, highlighting his unique ability to listen closely.",
+    "escenario_en": "The magical city of Orlog is illuminated by soft, ethereal light, with ancient buildings and enchanted forests nearby."
+  },
+  "avisos": [],
+  "uso_respaldo": false,
+  "tiempo_biblia_s": 89.05,
+  "tiempo_texto_s": 278.02
+}

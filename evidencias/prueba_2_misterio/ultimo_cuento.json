@@ -1,0 +1,126 @@
+{
+  "titulo": "El Diario de la Tormenta",
+  "personaje_en": "Clara, a librarian with a quiet demeanor, wears a blue dress and a hat. She has a sandglass watch that stops during storms, and her eyes glow faintly in the dark.",
+  "escenario_en": "The Library of Dreams sits atop a hill, surrounded by mist. Dim lighting and rain create a mysterious atmosphere.",
+  "escenas": [
+    {
+      "numero": 1,
+      "acto": "Inicio",
+      "texto": "Clara caminaba por los pasillos de la Biblioteca de los Sueños, donde la luz de las lámparas daba un brillo tenue a los libros antiguos. En el estante más alto, entre volúmenes de poesía y tratados filosóficos, encontró un diario con una tapa de cuero oscuro y un sello de plomo. Al tocarlo, sintió una vibración leve en el aire, como si algo hubiera cambiado. Su reloj de arena, siempre preciso, se detuvo en el medio. El viento sopló fuerte por la ventana, lloviznando suavemente, y el diario parecía esperar, como si tuviera su propia historia por contar.",
+      "hechos": [
+        "Clara encuentra un diario en la Biblioteca de los Sueños.",
+        "El diario tiene una tapa de cuero oscuro y un sello de plomo.",
+        "Su reloj de arena se detiene en el medio al tocar el diario."
+      ],
+      "accion_en": "the character touches the leather-bound diary on the highest shelf",
+      "lugar_en": "staircase library with dim lantern light at dusk",
+      "sonido_en": "soft rain tapping against windowpanes and distant wind whistling"
+    },
+    {
+      "numero": 2,
+      "acto": "Desarrollo",
+      "texto": "Clara llamó a Luis, quien llegó con paso rápido, observando el diario con interés. El hombre notó que, aunque ella no lo tocaba, el papel se movía ligeramente, como si estuviera escribiendo solo. Luis sugirió llevarlo a una sala apartada, donde la lluvia no entrara. Clara asintió, guardando el diario en una caja de madera. Mientras caminaban, Luis comentó que nunca había visto algo así, y Clara, mirando el cielo nublado, pensó que la tormenta aún no había llegado. La luz de la lámpara titiló suavemente, como si fuera parte del misterio que aún no se revelara.",
+      "hechos": [
+        "Clara llama a Luis, quien llega con paso rápido.",
+        "Luis observa el diario con interés, notando que el papel se mueve sin tocarlo.",
+        "Clara guarda el diario en una caja de madera mientras caminan a una sala apartada."
+      ],
+      "accion_en": "the character opens the diary, observing the pages carefully",
+      "lugar_en": "dimly lit study with soft candlelight at dusk",
+      "sonido_en": "soft rustling of pages and distant rain tapping against windows"
+    },
+    {
+      "numero": 3,
+      "acto": "Conflicto",
+      "texto": "Clara llevó el diario a la sala de lectura, donde María estaba de guardia. Abrió el libro con manos tembloras, las páginas estaban llenas de letras que parecían brillar bajo la luz tenue. Al intentar leer, las palabras se borraron como si fueran escritas en papel sensible. María observó con preocupación, sus ojos se dirigieron al cielo, donde las nubes se agrupaban en forma de sombras. —El diario solo puede ser leído durante las tormentas —dijo, —y no entiendo por qué no lo entiendes tú. —Clara asintió, el reloj de arena en su cuello se detuvo de nuevo, como si el tiempo mismo se hubiera paralizado.",
+      "hechos": [
+        "Clara lleva el diario a la sala de lectura.",
+        "María está de guardia en la sala de lectura.",
+        "El diario tiene páginas con letras que brillan bajo la luz tenue."
+      ],
+      "accion_en": "the character opens the diary with trembling hands, revealing glowing pages",
+      "lugar_en": "quiet reading room under dim twilight light",
+      "sonido_en": "soft rustling of pages and distant thunder"
+    },
+    {
+      "numero": 4,
+      "acto": "Clímax",
+      "texto": "La tormenta rompió el cielo, lana negra caía sobre la biblioteca, y Clara, con el diario en sus manos, comenzó a leerlo bajo la lluvia. El reloj de arena de su vestuario volvió a moverse lentamente, como si el tiempo estuviera a punto de fluir nuevamente. El diario, con sus páginas brillantes, comenzó a escribirse solo, y Clara captó algunas palabras que parecían ser fragmentos de un libro prohibido.",
+      "hechos": [
+        "Clara lee el diario bajo la lluvia en la biblioteca.",
+        "El reloj de arena de su vestuario mueve las sombras lentamente.",
+        "El diario escribe páginas brillantes con fragmentos de un libro prohibido."
+      ],
+      "accion_en": "the character reads the diary under the rain, watching the sandglass move slowly",
+      "lugar_en": "library, stormy night with flickering lights",
+      "sonido_en": "rain hitting windows, distant thunder, soft rustling paper"
+    },
+    {
+      "numero": 5,
+      "acto": "Desenlace",
+      "texto": "El reloj de arena de Clara comenzó a moverse con regularidad, como si el tiempo hubiera sido liberado. Las páginas del diario, ahora con letras que brillaban con un brillo cálido, se cerraron lentamente, dejando un rastro de letras que ella reconoció: el título del libro prohibido. Con los ojos fijos en el sello de plomo, Clara entendió el mensaje: era el registro de un escritor que murió en la tormenta. Con manos tembloras, tomó el diario y el sello, y con el corazón pesado, lo devolvió a su lugar original. La tormenta cesó, y el reloj de Clara volvió a funcionar con normalidad.",
+      "hechos": [
+        "Clara encontró un diario con letras brillantes y un sello de plomo.",
+        "El reloj de arena comenzó a moverse después de que la tormenta cesara.",
+        "Clara devolvió el diario y el sello a su lugar original."
+      ],
+      "accion_en": "the character closes the diary pages slowly, tracing the warm glowing letters",
+      "lugar_en": "quiet library at dusk with soft golden light",
+      "sonido_en": "soft rustling of pages and distant thunder"
+    }
+  ],
+  "biblia": {
+    "titulo": "El Diario de la Tormenta",
+    "protagonista": {
+      "nombre": "Clara",
+      "tipo": "Bibliotecaria",
+      "oficio": "Organizar y catalogar libros",
+      "rasgo": "Tiene un reloj de arena que se detiene durante las tormentas"
+    },
+    "secundarios": [
+      {
+        "nombre": "Luis",
+        "rol": "Guardia de la biblioteca"
+      },
+      {
+        "nombre": "María",
+        "rol": "Vigilante de la biblioteca"
+      }
+    ],
+    "lugar": "La Biblioteca de los Sueños, ubicada en lo alto de una colina cerca de la ciudad",
+    "tono": "Misterioso y tenue",
+    "objetivo": "Descifrar el mensaje del diario que escribe solo durante las tormentas",
+    "obstaculo": "El diario solo se puede leer cuando hay tormenta y Clara no entiende el lenguaje que usa",
+    "final": "Clara logra entender el diario y descubre que es el registro de un antiguo libro prohibido, que fue escrito por un escritor que murió en la tormenta. Ella decide devolverlo a su lugar original.",
+    "plan": [
+      {
+        "que_sucede": "Clara revisa el estante de libros antiguos en la Biblioteca de los Sueños y encuentra un diario con una tapa de cuero oscuro y un sello de plomo.",
+        "que_cambia": "Clara siente una extraña vibración en el aire y el reloj de arena de su vestuario se detiene."
+      },
+      {
+        "que_sucede": "Clara llama a Luis para que le ayude a mover el diario a un lugar más seguro, pero Luis nota que el diario parece escribirse solo cuando hay tormenta.",
+        "que_cambia": "Luis se queda sorprendido y sugiere que Clara lo lleve a un lugar donde pueda leerlo sin interrupciones."
+      },
+      {
+        "que_sucede": "Clara lleva el diario a la sala de lectura, donde María está vigilando, y comienza a leerlo, pero las palabras se borran al instante como si fueran escritas en papel sensible.",
+        "que_cambia": "María se queda preocupada y advierte a Clara que el diario solo puede ser leído durante las tormentas, lo cual es nuevo para ella."
+      },
+      {
+        "que_sucede": "Una tormenta inesperada llega, y Clara, con el diario en sus manos, empieza a leerlo bajo la lluvia, mientras el reloj de arena de su vestuario vuelve a moverse lentamente.",
+        "que_cambia": "El diario comienza a escribirse solo, y Clara logra captar algunas palabras que parecen ser fragmentos de un libro prohibido."
+      },
+      {
+        "que_sucede": "Clara comprende el mensaje del diario, descubre que es el registro de un antiguo libro prohibido escrito por un escritor que murió en la tormenta, y decide devolverlo a su lugar original junto con el sello de plomo.",
+        "que_cambia": "El diario se cierra por sí mismo, y el reloj de arena de Clara vuelve a funcionar normalmente, mientras la tormenta se calma."
+      }
+    ],
+    "personaje_en": "Clara, a librarian with a quiet demeanor, wears a blue dress and a hat. She has a sandglass watch that stops during storms, and her eyes glow faintly in the dark.",
+    "escenario_en": "The Library of Dreams sits atop a hill, surrounded by mist. Dim lighting and rain create a mysterious atmosphere."
+  },
+  "avisos": [
+    "Escena 4: demasiado breve"
+  ],
+  "uso_respaldo": false,
+  "tiempo_biblia_s": 210.69,
+  "tiempo_texto_s": 715.31
+}

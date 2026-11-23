@@ -1,0 +1,20 @@
+{
+  "idea": "Un joven relojero construye una brújula capaz de abrir puertas hacia bosques encantados",
+  "genero": "Ciencia Ficción",
+  "tiempos_s": {
+    "total": 745.96,
+    "texto": 278.02,
+    "imagen": 7.78,
+    "voz": 440.32,
+    "sonido": 19.01,
+    "palabras": 462
+  },
+  "duraciones_voz_s": [
+    37.48,
+    21.32,
+    23.88,
+    35.04,
+    32.4
+  ],
+  "avisos_texto": []
+}

@@ -1,0 +1,54 @@
+{
+  "modo": "semilla_escena",
+  "semilla_base": 1284747559,
+  "personaje": "single librarian with a quiet demeanor, wears a blue dress and a hat. She",
+  "estilo": "mysterious noir storybook painting, lantern light, deep shadows",
+  "tiempo_s": 13.4,
+  "escenas": [
+    {
+      "escena": 1,
+      "prompt": "mysterious noir storybook painting, lantern light, deep shadows, wide establishing shot, single librarian with a quiet demeanor, wears a blue dress and a hat. She, the character touches the leather-bound diary on the highest shelf, staircase library with dim lantern light at dusk",
+      "semilla": 1284748568,
+      "plano": "wide establishing shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 2,
+      "prompt": "mysterious noir storybook painting, lantern light, deep shadows, medium shot, single librarian with a quiet demeanor, wears a blue dress and a hat. She, the character opens the diary, observing the pages carefully, dimly lit study with soft candlelight at dusk",
+      "semilla": 1284749577,
+      "plano": "medium shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 3,
+      "prompt": "mysterious noir storybook painting, lantern light, deep shadows, dynamic low angle shot, single librarian with a quiet demeanor, wears a blue dress and a hat. She, the character opens the diary with trembling hands, revealing glowing pages, quiet reading room under dim twilight light",
+      "semilla": 1284750586,
+      "plano": "dynamic low angle shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 4,
+      "prompt": "mysterious noir storybook painting, lantern light, deep shadows, close-up shot, single librarian with a quiet demeanor, wears a blue dress and a hat. She, the character reads the diary under the rain, watching the sandglass move slowly, library, stormy night with flickering lights",
+      "semilla": 1284751595,
+      "plano": "close-up shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 5,
+      "prompt": "mysterious noir storybook painting, lantern light, deep shadows, wide shot, single librarian with a quiet demeanor, wears a blue dress and a hat. She, the character closes the diary pages slowly, tracing the warm glowing letters, quiet library at dusk with soft golden light",
+      "semilla": 1284752604,
+      "plano": "wide shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    }
+  ]
+}

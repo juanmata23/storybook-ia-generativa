@@ -1,0 +1,54 @@
+{
+  "modo": "semilla_escena",
+  "semilla_base": 4227016825,
+  "personaje": "single Timo is a young clockmaker with a keen ear for machinery sounds. He",
+  "estilo": "sci-fi storybook illustration, cinematic futuristic light",
+  "tiempo_s": 7.78,
+  "escenas": [
+    {
+      "escena": 1,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, wide establishing shot, single Timo is a young clockmaker with a keen ear for machinery sounds. He, The character adjusts a compass needle with careful precision, Dark wooden table in a dimly lit workshop at noon",
+      "semilla": 4227017834,
+      "plano": "wide establishing shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 2,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, medium shot, single Timo is a young clockmaker with a keen ear for machinery sounds. He, the character reads the letter, eyes glowing with determination, dim workshop at dawn, soft sunlight through windows",
+      "semilla": 4227018843,
+      "plano": "medium shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 3,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, dynamic low angle shot, single Timo is a young clockmaker with a keen ear for machinery sounds. He, the character kneels to examine the iron door's intricate patterns, stone sanctuary with flickering torchlight at dusk",
+      "semilla": 4227019852,
+      "plano": "dynamic low angle shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 4,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, close-up shot, single Timo is a young clockmaker with a keen ear for machinery sounds. He, the character shows a reflection in water, explaining the crystal's meaning, under a magical tree at dusk with soft light",
+      "semilla": 4227020861,
+      "plano": "close-up shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    },
+    {
+      "escena": 5,
+      "prompt": "sci-fi storybook illustration, cinematic futuristic light, wide shot, single Timo is a young clockmaker with a keen ear for machinery sounds. He, the character places the crystal in the center of the compass, dimly lit workshop at dusk",
+      "semilla": 4227021870,
+      "plano": "wide shot",
+      "accion_generica": false,
+      "lugar_global": false,
+      "img2img": false
+    }
+  ]
+}
